@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551688996712.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4146176925",
+    "id" : "470E68F9",
+    "lastKnownWriteTime" : 1554457186,
+    "last_content_update" : 1554457186720,
+    "path" : "C:/Users/hp/Downloads/RoughWork/time-series-forecating-master/AgricultureForecasting/Feature_Selection.R",
+    "project_path" : "Feature_Selection.R",
+    "properties" : {
+        "cursorPosition" : "34,0",
+        "scrollLine" : "10",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

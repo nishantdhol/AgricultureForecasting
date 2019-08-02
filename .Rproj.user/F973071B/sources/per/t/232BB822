@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551762435077.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3770671374",
+    "id" : "232BB822",
+    "lastKnownWriteTime" : 1555479855,
+    "last_content_update" : 1555479855445,
+    "path" : "C:/Users/hp/Downloads/RoughWork/time-series-forecating-master/AgricultureForecasting/Plumber.R",
+    "project_path" : "Plumber.R",
+    "properties" : {
+        "cursorPosition" : "21,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 16,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

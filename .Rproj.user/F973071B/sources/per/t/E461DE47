@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551265785530.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2490211130",
+    "id" : "E461DE47",
+    "lastKnownWriteTime" : 1554529217,
+    "last_content_update" : 1554529217256,
+    "path" : "C:/Users/hp/Downloads/RoughWork/time-series-forecating-master/AgricultureForecasting/Prediction_Model.R",
+    "project_path" : "Prediction_Model.R",
+    "properties" : {
+        "cursorPosition" : "40,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "16",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

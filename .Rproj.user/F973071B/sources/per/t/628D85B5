@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551159920954.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "893403939",
+    "id" : "628D85B5",
+    "lastKnownWriteTime" : 1551187741,
+    "last_content_update" : 1551187741138,
+    "path" : "C:/Users/hp/Downloads/RoughWork/time-series-forecating-master/AgricultureForecasting/DarkSky_API.R",
+    "project_path" : "DarkSky_API.R",
+    "properties" : {
+        "cursorPosition" : "51,30",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
