@@ -1,6 +1,6 @@
 [mycrop_in1]
-user=iconflux_dev 
-password=iconflux
-host=192.168.192.242
-port=3306
-database=mycrop_in1
+user=
+password=
+host=
+port=
+database=
