@@ -1,6 +1,6 @@
 DarkSkyAPI <- function()
 {
-  api <- "b6a8a79e2e1661f5535c93d402cc029e" #API KEY
+  api <- "enter api key here" #API KEY
   for (i in 1:nrow(df_replace)) {
     if (is.na(df_replace[i, "temperatureMin"]) == TRUE ||
         is.na(df_replace[i, "temperatureMax"]) == TRUE ||
